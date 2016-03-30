@@ -20,9 +20,6 @@ section{
 }
 .row{
 	width: 100%;
-	-webkit-column-gap: 10px; /* Chrome, Safari, Opera */
-    	-moz-column-gap: 10px; /* Firefox */
-    	column-gap: 10px;
 }
 #box{
 	border: 1px solid black;
